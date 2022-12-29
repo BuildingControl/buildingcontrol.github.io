@@ -356,7 +356,7 @@ img {
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {
-  display: none;
+  display: block;
 }
 
 @media (min-width: 1200px) {
