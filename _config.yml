@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: BuildingControl.io
+# title: BuildingControl.io
 
 # Your name to show in the footer
 author: BuildingControl.io
@@ -19,7 +19,7 @@ author: BuildingControl.io
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+# navbar-links:
   #About Me: ""
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
