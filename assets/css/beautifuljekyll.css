@@ -20,7 +20,7 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   background-position: top;
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
   {% endif %}
   overflow-wrap: break-word;
