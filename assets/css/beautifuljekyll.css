@@ -21,6 +21,7 @@ body {
   background-attachment: fixed;
   background-position: top;
   background-size: contain;
+  background-repeat: no-repeat;
   {% endif %}
   overflow-wrap: break-word;
 }
