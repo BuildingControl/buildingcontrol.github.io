@@ -19,10 +19,10 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-position: top;
-  background-size: 100% 100%;
+  background-size: auto 100%;
   background-repeat: no-repeat;
   {% endif %}
-  overflow-wrap: break-word;
+  overflow-wrap: normal;
 }
 p {
   line-height: 1.5;
